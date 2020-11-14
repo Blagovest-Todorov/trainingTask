@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.exe
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.deps.json
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.dll
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\bin\Debug\netcoreapp3.1\19.examTutorial.pdb
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.dll
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.pdb
+C:\Users\Bla\source\repos\DataTypes\19.examTutorial\obj\Debug\netcoreapp3.1\19.examTutorial.genruntimeconfig.cache
